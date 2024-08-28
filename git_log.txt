@@ -1,0 +1,52 @@
+commit 1048537479695d2e9a14e7c0f82f274727fb6863
+Merge: 22d4eb7 bd860f1
+Author: Andrew <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 15:00:39 2024 -0700
+
+    fixed merge conflict
+
+commit 22d4eb7caddc082a17b0017d88093d1f63ce1c7c
+Merge: 55cfa04 84c55f8
+Author: Andrew <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 14:58:55 2024 -0700
+
+    fixed merge conflicts
+
+commit 84c55f8cfbb376bfb749b155c81422f7eed9e737
+Author: Andrew <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 14:52:56 2024 -0700
+
+    added a div about favorite game
+
+commit 55cfa0460b46c34f07abb77c12da8d20d01ee91a
+Author: Andrew <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 14:50:06 2024 -0700
+
+    added and extra div
+
+commit 7fda5b69eecfc3df2021f4190a9a0f61ffe587ea
+Author: Andrew <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 14:40:31 2024 -0700
+
+    added a README file
+
+commit bd860f1a16b5a52f61f7f8411e0c6761f1d27da7
+Merge: 1d2bfc0 dacf289
+Author: ARivera905 <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 14:35:58 2024 -0700
+
+    Merge pull request #1 from ARivera905/info-fill
+    
+    filled in the blanks
+
+commit dacf28914b6cdb7a70be296f507d5ae5d8f93c44
+Author: Andrew <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 14:27:05 2024 -0700
+
+    filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
