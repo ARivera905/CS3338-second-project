@@ -1,3 +1,67 @@
+commit cc6a6068f31c07bdff8ff68bfd695200a4db008b
+Merge: dab2350 4c44708
+Author: ARivera905 <rivera2003andrew@gmail.com>
+Date:   Wed Sep 4 15:00:03 2024 -0700
+
+    Merge pull request #2 from ARivera905/feature-about-me
+    
+    adds the divs from feature-about me html
+
+commit 4c44708030fba7c6265fa5b06b20cd05c82bf6ee
+Merge: d453216 dab2350
+Author: ARivera905 <rivera2003andrew@gmail.com>
+Date:   Wed Sep 4 14:58:35 2024 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit d453216d51e88340e9f7d2f56f8fbdbc2f79ef4b
+Author: ARivera905 <rivera2003andrew@gmail.com>
+Date:   Wed Sep 4 14:48:29 2024 -0700
+
+    Update index.html
+    
+    added in the requested information
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit dab2350f8e6d0a87bc7d6bff34d49d785da9b1c4
+Author: Andrew <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 15:05:00 2024 -0700
+
+    contains link to repo
+
+commit aaaae060ea2353b3f1461014d60a8fa39b4a0325
+Author: Andrew <rivera2003andrew@gmail.com>
+Date:   Wed Aug 28 15:04:11 2024 -0700
+
+    added log txt file
+
 commit 1048537479695d2e9a14e7c0f82f274727fb6863
 Merge: 22d4eb7 bd860f1
 Author: Andrew <rivera2003andrew@gmail.com>
